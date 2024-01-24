@@ -1,2 +1,2 @@
 # Deep-Learning
- Course Assignment and Project
+ Course Assignments 
